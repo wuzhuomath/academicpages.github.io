@@ -1,1 +1,11 @@
 # main links links
+main:
+  - title: "Writtings"
+    url: /publications/
+
+  - title: "Discussion Class"
+    url: /talks/    
+
+  - title: "Olympic Questions"
+    url: /teaching/    
+    
