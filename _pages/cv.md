@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Olympic questions"
-permalink: /cv/
+title: "Olympiad problems"
+permalink: /olympiad problems/
 author_profile: true
 redirect_from:
   - /resume
