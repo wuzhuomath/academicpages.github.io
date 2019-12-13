@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-I have created a lots of olympic questions. I always tried to consider some simple situation and assumption, and extension them naturally. Thus, these questions are always beautiful and elegant. Some of these questions are provided for some exams, such as admission exams of Peking University for maths contestants.  Here are some of these questions. If you want to know the answer of these questions, or interested on how can I created these questions, please email me. I'll be very happy if you are interested on my olympic questions.
+I have created some olympiad problems. I always try to start from some simple situations and assumptions, and then extend them naturally.  Most of these problems were provided to some exams, such as the admission exams of Peking University for high school maths contestants. My favorite problems are collected here. If you want to know the answers of them, or if you are interested in how I came up with such problems, just email me. I will be very happy to discuss them with you.
 
