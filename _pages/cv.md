@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Olympiad problems"
+title: "Olympiad Problems"
 permalink: /olympiad problems/
 author_profile: true
 redirect_from:
