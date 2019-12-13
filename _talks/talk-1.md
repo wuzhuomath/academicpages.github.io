@@ -1,8 +1,7 @@
 ---
 ---
-layout: archive
-title:
-permalink: /discrete seminar/
-author_profile: true
+---
+title: 
+collection: discrete seminar
 [Algebraic Methods 2](https://wuzhuomath.github.io/files/AlgebraicMethods2.pdf)
 ---
