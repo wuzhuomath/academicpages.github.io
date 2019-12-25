@@ -1,6 +1,6 @@
 ---
 title: ""
-collection: discrete seminar
+collection: Olympiad problems
 paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/My%20favorite%20problems.pdf'
 ---
 
