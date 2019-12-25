@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/Algebraic%20Methods%202.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: ""
+collection: olympiad problems
+paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/AlgebraicMethods2.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/Algebraic%20Methods%202.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Problems](https://wuzhuomath.github.io/files/AlgebraicMethods2.pdf)
+---
