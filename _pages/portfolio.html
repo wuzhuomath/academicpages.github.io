@@ -10,10 +10,5 @@ I have created some olympiad problems. I always try to start from some simple si
 
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for post in site.portfolio reversed %}
 {% endfor %}
-
