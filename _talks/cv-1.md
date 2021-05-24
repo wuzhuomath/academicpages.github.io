@@ -7,6 +7,9 @@ paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/
 [Algebraic Methods 2](https://wuzhuomath.github.io/files/AlgebraicMethods2.pdf)
 ---
 
+---
+title: ""
+collection: olympiad problems
 paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/Chapter1.pdf'
 ---
 
