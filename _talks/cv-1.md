@@ -10,8 +10,8 @@ paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/
 ---
 title: ""
 collection: olympiad problems
-paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/Chapter1.pdf'
+paperurl: 'https://github.com/wuzhuomath/wuzhuomath.github.io/blob/master/files/Chapter%201.pdf'
 ---
 
-[Extremal graph theory-Chapter 1](https://wuzhuomath.github.io/files/Chapter1.pdf)
+[Extremal graph theory-Chapter 1](https://wuzhuomath.github.io/files/Chapter%201.pdf)
 ---
